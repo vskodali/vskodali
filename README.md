@@ -1,16 +1,17 @@
-## Hi there 👋
+### Yo! 👋 I'm Vishnu Sai Kodali, a Software Engineer & Full-Stack Dev 🚀
 
-<!--
-**vskodali/vskodali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+🌟 Experienced in Agile & SDLC methodologies  
+👨‍💻 Skilled in HTML, CSS, Bootstrap, JS, jQuery, Java (J2EE), Spring, Hibernate, MongoDB  
+📚 Master's in Info Tech @ ASU 🎓  
+🌐 Passionate about creating user-centric apps that drive innovation  
 
-Here are some ideas to get you started:
+#### Tech Stack
+- 🛠️ Languages: HTML, CSS, JS, Java, SQL, Python
+- 🌐 Frameworks: Spring MVC, Spring Boot, React.js, Hibernate
+- 🛠️ Tools: Git/GitHub, Jira, Jenkins, AWS (EC2, S3, Lambda)
+- 📊 Databases: MySQL, MongoDB, PostgreSQL, Oracle
+- 🌱 Learning: Node.js, Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Let's Connect!
+📫 Drop me a message or connect on [LinkedIn](https://www.linkedin.com/in/vishnusaikodali/) 💼
