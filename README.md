@@ -7,11 +7,10 @@
 🌐 Passionate about creating user-centric apps that drive innovation  
 
 #### Tech Stack
-- 🛠️ Languages: HTML, CSS, JS, Java, SQL, Python
-- 🌐 Frameworks: Spring MVC, Spring Boot, React.js, Hibernate
-- 🛠️ Tools: Git/GitHub, Jira, Jenkins, AWS (EC2, S3, Lambda)
+- 💻 Languages: HTML, CSS, JavaScript, Java, SQL, Python
+- 🛠️ Frameworks & Tools: Spring MVC, Spring Boot, React.js, Git/GitHub, AWS (EC2, S3), Jenkins
 - 📊 Databases: MySQL, MongoDB, PostgreSQL, Oracle
-- 🌱 Learning: Node.js, Microservices
+- 🌍 Other: UML, JUnit, Node.js, RESTful APIs, Microservices
 
 #### Let's Connect!
 📫 Drop me a message or connect on [LinkedIn](https://www.linkedin.com/in/vishnusaikodali/) 💼
