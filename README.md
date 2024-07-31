@@ -1,4 +1,4 @@
-# Yo! 👋 I'm Vishnu Sai Kodali, a Software Engineer & Full-Stack Developer 🚀
+# Hello! 👋 I'm Vishnu Sai Kodali, a Software Engineer & Full-Stack Developer 🚀
 
 ## Tech Stack
 **Languages:**  
@@ -45,6 +45,7 @@
 Check out my portfolio for projects and more details: [My Portfolio](https://www.vskodali.me/)
 
 ## 📬 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusaikodali/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/vishnusai21)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusaikodali/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/vishnusai21)
+
 
