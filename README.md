@@ -45,7 +45,7 @@
 Check out my portfolio for projects and more details: [My Portfolio](https://www.vskodali.me/)
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusaikodali/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuk99/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/vishnusai21)
 
 
